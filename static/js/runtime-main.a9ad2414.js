@@ -74,7 +74,7 @@
     (i.o = function (e, t) {
       return Object.prototype.hasOwnProperty.call(e, t);
     }),
-    (i.p = 'https://senine.clintgoodman.com/csb-mkuryn/');
+    (i.p = 'https://senine.clintgoodman.com/');
   var l = (this['webpackJsonpsenine-statistics'] =
       this['webpackJsonpsenine-statistics'] || []),
     a = l.push.bind(l);
